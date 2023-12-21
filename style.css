@@ -72,7 +72,7 @@
     display: grid;
     align-items: center;
     justify-content: center;
-    position: absolute;
+    position: fixed;
     top: 120px;
     width: 100%;
 }
