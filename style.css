@@ -360,8 +360,9 @@ footer div{
     }
 
     #creatives{
-        display: flex;
+        display: grid;
         text-align: center;
+        position: auto;
     }
 
     #component{
