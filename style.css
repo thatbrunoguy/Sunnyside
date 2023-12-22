@@ -363,6 +363,7 @@ footer div{
         display: grid;
         text-align: center;
         position: auto;
+        margin-top: -50px;
     }
 
     #component{
